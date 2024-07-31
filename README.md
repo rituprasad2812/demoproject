@@ -1,2 +1,6 @@
 # demoproject
-this is my first official repository
+This is my first official repository.
+<br>
+This is fun learning!
+<br>
+I would love to learn more.
